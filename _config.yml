@@ -54,7 +54,7 @@ theme: minima
 # Navigation
 nav:
   - name:           "home"
-    href:           "/index"
+    href:           "/"
   - name:           "publications"
     href:           "/publications"
   - name:           "people"
