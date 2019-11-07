@@ -506,7 +506,7 @@ tbody tr:nth-child(odd) th {
 // change font for navbar
 .navbar, .navbar-nav>li>a {
   background-color: #FF2F92;
-  font-family: Avenir, sans-serif;
+  font-family: Avenir,'Open Sans', sans-serif;
   text-transform: uppercase;
   font-weight: 400;
   font-size: 80%;
@@ -533,6 +533,6 @@ tbody tr:nth-child(odd) th {
 
 // fix menu button for mobile
 .navbar-toggle, .navbar-default .navbar-toggle:hover {
-  border: none;
-  background-color: #FFF;
+  border: none !important;
+  background-color: #FFF !important; 
 }
