@@ -500,7 +500,7 @@ tbody tr:nth-child(odd) th {
   font-weight: bold;
   font-size: 20px;
   font-weight: 300;
-  color: white;
+  color: white !important;
 }
 
 // change font for navbar
@@ -510,7 +510,7 @@ tbody tr:nth-child(odd) th {
   text-transform: uppercase;
   font-weight: 400;
   font-size: 80%;
-  color: white;
+  color: white !important;
 }
 
 // fix menu bar spacing for mobile
