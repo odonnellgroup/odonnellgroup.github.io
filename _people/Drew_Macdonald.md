@@ -2,7 +2,7 @@
 name: Drew Macdonald
 position: undergrads
 avatar: blank.png
-joined: 9_2018
+joined: 9_2019
 affiliation: [co-supervised by Conor Houghton]
 ---
 

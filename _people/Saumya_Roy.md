@@ -1,9 +1,9 @@
 ---
-name: David Sharp
+name: Saumya Roy
 position: undergrads
 avatar: blank.png
 joined: 9_2019
-affiliation: [co-supervised by Jack Mellor]
+affiliation:
 ---
 
 <img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
@@ -18,6 +18,6 @@ affiliation: [co-supervised by Jack Mellor]
 
 <header class="masthead text-justify" style="font-size:120%">
 **Project**  
-Estimating synaptic inputs from whole-cell recording data.
+Regularised unsupervised synaptic learning rules.
 </header>
 <br><br>
