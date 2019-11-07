@@ -15,7 +15,7 @@ body {
 }
 
 html {
-  font-family: "Open Sans", "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: Avenir, "Open Sans", "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 18px;
   font-weight: 300;
   line-height: 1.6;
@@ -50,7 +50,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
   margin-bottom: .5rem;
   font-weight: 600;
-  font-family: "Open Sans", "Source Sans Pro";
+  font-family: Avenir, "Open Sans", "Source Sans Pro";
   line-height: 1.1;
   color: #333;
   letter-spacing: -.025rem;
@@ -73,14 +73,14 @@ h4, h5, h6 {
 }
 
 p {
-  font-family: "Open Sans", "Helvetica Neue", Helvetica;
+  font-family: Avenir, "Open Sans", "Helvetica Neue", Helvetica;
   font-weight: 300;
   margin: 0 0 1rem;
   font-size: 0.8rem;
 }
 
 ul, ol, dl {
-  font-family: "Open Sans", "Helvetica Neue", Helvetica;
+  font-family: Avenir, "Open Sans", "Helvetica Neue", Helvetica;
   font-weight: 300;
   font-size: 0.8rem;
   margin-top: 0;
@@ -486,7 +486,7 @@ tbody tr:nth-child(odd) th {
 }
 
 .list-item a:hover, .list-post-title:hover .name, .list-post-title .name:hover {
-  color: #c42929;
+  color: #FF2F92;
 }
 
 .page-title {
@@ -497,15 +497,17 @@ tbody tr:nth-child(odd) th {
   //font-weight: bold;
   font-size: 20px;
   font-weight: 300;
+  color: white !important;
 }
 
 // change font for navbar
 .navbar, .navbar-nav>li>a {
-  background-color: white;
+  background-color: #FF2F92;
   font-family: 'Open Sans', sans-serif;
   text-transform: uppercase;
   font-weight: 400;
   font-size: 80%;
+  color: white !important;
 }
 
 // fix menu bar spacing for mobile
