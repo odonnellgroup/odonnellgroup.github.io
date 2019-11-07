@@ -64,3 +64,5 @@ Photoemission study of sulfur and oxygen adsorption on GaN (0001).
 - Zhang Y, Wang S, Learmonth T, Plucinski L, Matsuura AY, Bernardis S, O’Donnell C, Downes JE, Smith KE.  
 Electronic excitations in vanadium oxide phthalocyanine studied via resonant soft X-ray emission and resonant inelastic X-ray scattering.  
 *Chemical physics letters* 413 (1-3), 95-99 (2005).
+
+{% include footer.html %}

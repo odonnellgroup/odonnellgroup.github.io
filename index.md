@@ -18,3 +18,5 @@ What is different in the brains of autistic people? We collaborate with research
 
 **Statistical methods for neural data**  
 How should we analyse data from large numbers of neurons? We work on statistical methods for analysing large-scale neural datasets, including: probabilistic models of neural population activity distributions, network science methods, and bayesian hierarchal modelling.
+
+{% include footer.html %}
