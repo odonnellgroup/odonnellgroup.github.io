@@ -516,8 +516,8 @@ tbody tr:nth-child(odd) th {
 // fix menu bar spacing for mobile
 @media(max-width: 40em){
   .navbar-nav>li>a {
-    padding: 0.75em 0 0.5em 2.5em;
-    font-size: 15px;
+    padding: 0.75em 0 0.5em 2.5em !important;
+    font-size: 15px !important;
   }
 
   // fix menu scroll along x axis
