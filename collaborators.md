@@ -16,6 +16,7 @@ order: 2
 
 ## Outside Bristol
 - [Andreas Frick](https://neurocentre-magendie.fr/recherche/Frick/descriptionTeam.php) - Bordeaux
+- [Jeremy Hall](https://www.cardiff.ac.uk/people/view/57718-hall-jeremy) - Cardiff University
 - [Carlos Portera-Cailliau](http://porteralab.neurology.ucla.edu/) - University of California Los Angeles
 - [Kathy Puddifoot](http://www.birmingham.ac.uk/staff/profiles/philosophy/puddifood-kathy.aspx) - Durham University
 - [Romain Veltz](http://romainveltz.pythonanywhere.com/) - INRIA, Sophia-Antipolis
