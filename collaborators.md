@@ -9,6 +9,7 @@ order: 2
 - [Michael Ashby](http://www.bristol.ac.uk/phys-pharm/people/michael-c-ashby) - Physiology, Pharmacology and Neuroscience
 - [Liz Coulthard](http://www.bristol.ac.uk/clinical-sciences/people/liz-j-coulthard/) - Clinical Sciences
 - [Tom Gorochowski](https://biocomputelab.github.io/) - Life Sciences
+- [Jon Hanley](https://hanleylab.site123.me) - Biochemistry
 - [Conor Houghton](https://www.cs.bris.ac.uk/home/cscjh/) - Computer Science
 - [Jack Mellor](http://www.bris.ac.uk/synaptic/people/66711) - Physiology, Pharmacology and Neuroscience
 - [Clea Warburton](http://www.bristol.ac.uk/phys-pharm/people/clea-c-warburton) - Physiology, Pharmacology and Neuroscience
