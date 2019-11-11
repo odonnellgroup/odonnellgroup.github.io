@@ -3,7 +3,7 @@ name: Rahul Gupta
 position: postdoc
 avatar: blank.png
 twitter:
-joined: 1_2020
+joined: 10_2019
 affiliation: starting Jan 2020
 ---
 
