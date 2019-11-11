@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
+title: O'Donnell group
 ---
 
 #### PhD openings, see [Join Us](https://odonnellgroup.github.io/join/) page for details
