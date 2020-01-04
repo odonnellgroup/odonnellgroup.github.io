@@ -6,11 +6,6 @@ layout: page
 title: O'Donnell group
 ---
 
-#### PhD openings, see [Join Us](https://odonnellgroup.github.io/join/) page for details
-- Computational modelling of altered hippocampal synaptic plasticity rules in neurodevelopmental disorders, co-supervised by [Krasi Tsaneva-Atanasova](https://emps.exeter.ac.uk/mathematics/staff/kt298) (Exeter) and [Jeremy Hall](https://www.cardiff.ac.uk/people/view/57718-hall-jeremy) (Cardiff). MRC [GW4 BioMed program](https://www.gw4biomed.ac.uk), application deadline 25/11/2019, UK/EU applicants only.
-- Understanding local dendritic protein translation in synaptic plasticity. Joint experimental/computational project co-supervised by [Jon Hanley](https://hanleylab.site123.me) (Bristol). [BBSRC SWBio program](https://www.swbio.ac.uk), application deadline 02/12/2019, UK/EU applicants only.
-- *Whatever you would like to work on*. Please email me if you are interested in applying for funding to do a PhD in my group, attaching your CV and a few sentences about what you might be interested in working on. Our School's deadline next for applications for a September 2020 start will be 31/01/2020, if you want to meet this deadline it would be best to email me by 10/12/2019. UK/EU/Non-EU applicants welcome.
-
 ## About ##
 
 We are a computational neuroscience research group and part of the [Bristol Computational Neuroscience Unit](https://bristolcnu.github.io) at the [University of Bristol](http://www.bristol.ac.uk) in the fine city of Bristol, UK.
