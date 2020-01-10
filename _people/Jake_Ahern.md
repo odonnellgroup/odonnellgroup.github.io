@@ -1,9 +1,9 @@
 ---
-name: Panagiotis Dimitriou
-position: masters
-avatar: blank.png
-joined: 9_2019
-affiliation: [co-supervised by Fabio Parmeggiani]
+name: Jake Ahern
+position: gradstudent
+avatar: JakeAhern.jpg
+joined: 11_2019
+affiliation: [co-supervised by Conor Houghton, Denize Atan, Zafar Bashir]
 ---
 
 <img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
@@ -18,6 +18,6 @@ affiliation: [co-supervised by Fabio Parmeggiani]
 
 <header class="masthead text-justify" style="font-size:120%">
 **Project**  
-Predicting protein folding with deep learning.
+Modelling dentate gyrus electrical dynamics.
 </header>
 <br><br>
