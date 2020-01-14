@@ -13,8 +13,6 @@ order: 3
    - [Marie Cure individual fellowship](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en) (1-2 years funding, need a PhD at time of application. Especially suitable if you want to move to UK from elsewhere in Europe or the rest of the world.)
 
 ## PhD
-**Current specific openings**  
-
 **General openings**  
 UK PhDs take 3-4 years and usually start in September (although this is flexible). If you would like to do a PhD in the group, we have a range of projects available on computational modelling of synaptic plasticity, learning and memory; and statistical analysis of neural activity data. Most projects involve collaborations with experimentalists either here in Bristol, or Europe or US. Please contact me to discuss funding options, which vary a lot depending on your country of origin. Usually you would need a good Bachelors or Masters degree in computer science, biology, physics, engineering or maths before taking on a computational neuroscience PhD - but other backgrounds are possible. However, the most important thing is not your background, but that you enjoy research work, are curious, and want to understand how the brain works. Our School's next application deadline will be 14th February 2020, for a September 2020 start. UK/EU/Non-EU applicants very welcome.
 
