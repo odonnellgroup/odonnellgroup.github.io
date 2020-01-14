@@ -14,12 +14,17 @@ We are a computational neuroscience research group and part of the [Bristol Comp
 We work on three main areas: *Learning & Memory*, *Autism*, and *Statistical methods for neural data*.
 
 **Learning and Memory**  
-What are the mechanisms and rules of synaptic plasticity? How do biophysical properties of synapses constrain or benefit learning? How does memory consolidation work? How does neural replay during sleep contribute to memory?
+- What are the mechanisms and rules of synaptic plasticity? Work by [Beatriz](https://odonnellgroup.github.io/people/Beatriz_Mizusaki), [Rachel](https://odonnellgroup.github.io/people/Rachel_Humphries) and [Cian](https://odonnellgroup.github.io/people/Cian Odonnell).
+- How do biophysical properties of synapses constrain or benefit learning? Work by [Rahul](https://odonnellgroup.github.io/people/Rahul_Gupta).
+- How does neural replay during sleep contribute to memory? [Will](https://odonnellgroup.github.io/people/Will_Carr).
+- How does mitochondria trafficking affect synapse turnover in axons? [Naomi](https://odonnellgroup.github.io/people/Naomi_Berthaut).
 
 **Autism**  
-What is different in the brains of autistic people? We collaborate with researchers who work on animal models of autism to ask what is different at the level of neural circuits. Currently we are working on the *neural variability hypothesis*: that the brains of autistic people respond with more variability to sensory stimuli.
+What is different in the brains of autistic people? We collaborate with researchers who work on animal models of autism to ask what is different at the level of neural circuits. Currently we are working on the *neural variability hypothesis*: that the brains of autistic people respond with more variability to sensory stimuli. Also asking how computational modelling can inform neural circuit-level understanding of autism mechanisms.<br/>
+Work by [Beatriz](https://odonnellgroup.github.io/people/Beatriz_Mizusaki) and [Cian](https://odonnellgroup.github.io/people/Cian Odonnell).
 
 **Statistical methods for neural data**  
-How should we analyse data from large numbers of neurons? We work on statistical methods for analysing large-scale neural datasets, including: probabilistic models of neural population activity distributions, network science methods, and bayesian hierarchal modelling.
+How should we analyse data from large numbers of neurons? We work on statistical methods for analysing large-scale neural datasets, including: probabilistic models of neural population activity distributions, network science methods, and bayesian hierarchal modelling.<br/>
+Work by [Thomas](https://odonnellgroup.github.io/people/Thomas_Delaney), [Sydney](https://odonnellgroup.github.io/people/Sydney_Dimmock) and [Cian](https://odonnellgroup.github.io/people/Cian Odonnell)
 
 {% include footer.html %}
