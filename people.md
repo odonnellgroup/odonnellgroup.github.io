@@ -37,6 +37,21 @@ permalink: /people/
 <h3>MSc students</h3>
 {% elsif item == 'alumni' %}
 <h3>Former members</h3>
+<p>MSc students</p>
+<ul>
+  <li>2018/19: Panagiotis Dimitriou, Jiaxuan Yin, Yini Zhang.</li>
+  <li>2017/18: Ivan Chelombiev, Benjamin Exley, Nargiz Humbatova, Adam Matheson, Anmol Krishnan Sachdeva, Zihao Wang.</li>
+  <li>2016/17: Andrew Campbell, Julian Ferry, Akingbolade Shada, Anqi Wang, Tonia Zhang.</li>
+  <li>2015/16: Kai Gillam, Xinyu Wang.</li>
+</ul>
+<p>Undergraduate project students</p>
+<ul>
+  <li>2018/19: Sydney Dimmock, Will Rollason, Rajat Subhra Roy, Stefan Klas.</li>
+  <li>2017/18: Sam Coward, Marah Faron, Dan Keitley, Sonny Peng.</li>
+  <li>2016/17: Thomas Camp, Eleftherios Christodolou, Robert Eyre, Mami Takechi.</li>
+  <li>2015/16: Kai Gillam, Xinyu Wang.</li>
+  <li>2015/16: Matthew Foer.</li>
+</ul>
 {% endif %}
 </div>
 

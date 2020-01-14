@@ -14,6 +14,7 @@ order: 2
 - [Jack Mellor](http://www.bris.ac.uk/synaptic/people/66711) - Physiology, Pharmacology and Neuroscience
 - [Clea Warburton](http://www.bristol.ac.uk/phys-pharm/people/clea-c-warburton) - Physiology, Pharmacology and Neuroscience
 - [Nick Whiteley](https://people.maths.bris.ac.uk/~manpw) - Mathematics
+- [Lasani Wijetunge](https://research-information.bris.ac.uk/en/persons/lasani-s-wijetunge(6303a115-6707-467d-aaac-d1cbef045656).html) - Physiology, Pharmacology and Neuroscience
 
 ## Outside Bristol
 - [Andreas Frick](https://neurocentre-magendie.fr/recherche/Frick/descriptionTeam.php) - Bordeaux
