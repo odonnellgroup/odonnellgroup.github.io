@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 - O'Donnell C.  
-[Simplicity, flexibility, and interpretability in a model of dendritic protein distributions](https://www.cell.com/neuron/fulltext/S0896-6273(19)30783-4)  
+[Simplicity, flexibility, and interpretability in a model of dendritic protein distributions](https://www.cell.com/neuron/fulltext/S0896-6273(19)30783-4) (preview)   
 *Neuron* 103 (6), 950-952 (2019)
 - Chelombiev I, Houghton CJ, O’Donnell C.  
 [Adaptive estimators show information compression in deep neural networks.](https://arxiv.org/pdf/1902.09037)  
@@ -48,7 +48,7 @@ permalink: /publications/
 *Trends Neurosci* 34(2), 51-60 (2011).
 - Cannon RC, O’Donnell C, Nolan MF.  
 [Stochastic ion channel gating in dendritic neurons: morphology dependence and probabilistic synaptic activation of dendritic spikes.](http://www.snl.salk.edu/~cian/files/Cannon_PLoS_Comput_Biol_2010.pdf)  
-*PLoS Comput Biol* 12;6(8) e1000886 (2010). 
+*PLoS Comput Biol* 12;6(8) e1000886 (2010).
 - Garden DLF, Dodson PD, O’Donnell C, White MD, Nolan MF.  
 [Tuning of synaptic integration by entorhinal cortical neurons to the organization of grid fields.](http://www.snl.salk.edu/~cian/files/Garden_Neuron_2008.pdf)  
 *Neuron* 60(5), 875-889 (2008).
