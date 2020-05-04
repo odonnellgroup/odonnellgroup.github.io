@@ -6,7 +6,7 @@ twitter: cian_neuro
 joined: 10_2015
 affiliation:
 ---
-
+<img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 <!--- _Lecturer in Computer Science, Dept of Computer Science, SCEEM, Faculty of Engineering, University of Bristol_<br>-->
 
 <i class="fa fa-envelope-o"></i> `first.last [but without the apostrophe] at bristol.ac.uk`<br>
