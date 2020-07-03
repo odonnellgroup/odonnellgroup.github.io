@@ -3,7 +3,7 @@ name: Naomi Berthaut
 position: gradstudent
 avatar: NaomiBerthaut.jpg
 joined: 9_2019
-affiliation: [co-supervised by Mike Ashby]
+affiliation: [with Mike Ashby]
 ---
 
 <img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

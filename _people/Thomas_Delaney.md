@@ -3,7 +3,7 @@ name: Thomas Delaney
 position: gradstudent
 avatar: ThomasDelaney.jpg
 joined: 9_2016
-affiliation: [co-supervised by Mike Ashby]
+affiliation: [with Mike Ashby]
 ---
 
 <img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

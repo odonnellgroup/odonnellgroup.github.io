@@ -3,7 +3,7 @@ name: Will Carr
 position: gradstudent
 avatar: WillCarr.jpg
 joined: 9_2018
-affiliation: [co-supervised by Liz Coulthard]
+affiliation: [with Liz Coulthard]
 ---
 
 <img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

@@ -3,7 +3,7 @@ name: Rachel Humphries
 position: gradstudent
 avatar: RachelHumphries.jpg
 joined: 9_2018
-affiliation: [co-supervised by Jack Mellor]
+affiliation: [with Jack Mellor]
 ---
 
 <img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
