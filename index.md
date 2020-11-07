@@ -5,10 +5,11 @@
 layout: page
 title: O'Donnell group
 ---
+![Image by Ahmed Gad from Pixabay](https://github.com/odonnellgroup/odonnellgroup.github.io/raw/master/docs/banner_small.png)
 
 ## About ##
 
-We are a computational neuroscience research group and part of the [Bristol Computational Neuroscience Unit](https://bristolcnu.github.io) at the [University of Bristol](http://www.bristol.ac.uk) in the fine city of Bristol, UK.
+We are a computational neuroscience research group and part of the [Bristol Neural Computation Hub](https://bristolcnu.github.io) at the [University of Bristol](http://www.bristol.ac.uk) in the fine city of Bristol, in south-west UK.
 
 ## Research ##
 We work on three main areas: *Learning & Memory*, *Autism*, and *Statistical methods for neural data*.
