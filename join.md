@@ -2,11 +2,12 @@
 layout: page
 title: Join the group
 permalink: /join/
-order: 3
+order: 6
 ---
 
 ## Postdoc
 *We are always interested in hearing from potential postdocs*. Please contact Cian early and we can work on figuring out funding. Options include:
+
 - applying for a research grant from the UK government ([BBSRC](https://bbsrc.ukri.org/funding/), [MRC](https://mrc.ukri.org/funding/), [EPSRC](https://epsrc.ukri.org/funding/)) or charity (e.g. [Wellcome Trust](https://wellcome.ac.uk/funding), [Leverhulme Trust](https://www.leverhulme.ac.uk/schemes-at-a-glance)) with you as a named postdoc.
 - you applying for your own postdoctoral fellowship, some schemes are:
    - [Sir Henry Wellcome Postdoctoral Fellowships](https://wellcome.ac.uk/funding/schemes/sir-henry-wellcome-postdoctoral-fellowships) (up to 4 years funding, open to final year PhD students or early postdocs)
@@ -14,15 +15,22 @@ order: 3
 
 ## PhD
 **General openings**  
-UK PhDs take 3-4 years and usually start in September (although this is flexible). If you would like to do a PhD in the group, we have a range of projects available on computational modelling of synaptic plasticity, learning and memory; and statistical analysis of neural activity data. Most projects involve collaborations with experimentalists either here in Bristol, or Europe or US. Please contact me to discuss funding options, which vary a lot depending on your country of origin. Usually you would need a good Bachelors or Masters degree in computer science, biology, physics, engineering or maths before taking on a computational neuroscience PhD - but other backgrounds are possible. However, the most important thing is not your background, but that you enjoy research work, are curious, and want to understand how the brain works. Our School's application deadline will be early 2021, contact Cian in Nov/Dec 2020.
+If you would like to do a PhD in the group, we have projects available on computational modelling of synaptic plasticity, learning and memory; and synaptic and neural circuit dysfunction in autism. In each case we try to link bottom-up biology with top-down theoretical neuroscience or machine learning ideas. Most projects involve collaborations with experimentalists here in Bristol, or Europe, or the US.
+Example directions we are working on:
 
-*Projects in PhD programmes*
+- The rules of synaptic plasticity: heterosynaptic learning in dendritic neurons.
+- Gene expression in neurons: stochasticity and multi-timescale signalling in neuronal protein synthesis.
+- Neural variability in autism: origins of circuit variability and its relationship to sensory processing dysfunction in autism.
 
-- "Computational modelling of dysfunctional synaptic plasticity in neuropsychiatric disorders", to be co-supervised by Krasi Tsaneva-Atanasova (Exeter) and Jeremy Hall (Cardiff). To involve numerical simulations and mathematical analysis of models of synaptic plasticity, and analysis of physiology data from Hall's lab. Longer description (here)[https://www.gw4biomed.ac.uk/wp-content/uploads/sites/9/2020/09/MRC21NMHBr-ODonnell.pdf]. Talk to Cian about the project but apply directly to the [MRC GW4 Biomed programme](https://www.gw4biomed.ac.uk). Application deadline 23rd November 2020.
+UK PhDs take 3-4 years and usually start in September (although this is flexible).  Please contact me to discuss funding options, which vary a lot depending on your country of origin. Usually you would need a good Bachelors or Masters degree in computer science, biology, physics, engineering or maths before taking on a computational neuroscience PhD - but other backgrounds are possible. However, the most important thing is not your background, but that you enjoy research work, are curious, and want to understand how the brain works. Our School's application deadline will be early 2021, contact Cian in Nov/Dec 2020.
 
-- "Does the remodelling of inhibitory interneurons contribute to brain circuit malfunction in preclinical Alzheimer’s disease?", to be co-supervised by with Jon Witton and John Brown (both Exeter). Part experimental, part computational project. Longer description [here](https://www.gw4biomed.ac.uk/wp-content/uploads/sites/9/2020/09/MRC21NMHEx-Witton.pdf). Apply directly to the [MRC GW4 Biomed programme](https://www.gw4biomed.ac.uk). Application deadline 23rd November 2020.
+**Projects in PhD programmes**
 
-- "Merging maths and biology to understand how the dynamics of dentate gyrus circuitry supports memory formation in hippocampus", to be co-supervised by with Zaf Bashir, Denize Atan, Conor Houghton (Bristol). Part experimental, part computational project. Longer description [here](https://cpb-eu-w2.wpmucdn.com/blogs.bristol.ac.uk/dist/f/373/files/2020/10/swbio-21-project-77.pdf). Talk to Cian about the project but apply directly to the [BBSRC SWBio programme](https://www.swbio.ac.uk). Application deadline 7th December 2020.
+- *"Computational modelling of dysfunctional synaptic plasticity in neuropsychiatric disorders"*, to be co-supervised by [Krasi Tsaneva-Atanasova](https://emps.exeter.ac.uk/mathematics/staff/kt298) (Exeter) and [Jeremy Hall](https://www.cardiff.ac.uk/people/view/57718-hall-jeremy) (Cardiff). To involve numerical simulations and mathematical analysis of models of synaptic plasticity, and analysis of physiology data from Hall's lab. Longer description [here](https://www.gw4biomed.ac.uk/wp-content/uploads/sites/9/2020/09/MRC21NMHBr-ODonnell.pdf). Talk to Cian about the project but apply directly to the [MRC GW4 Biomed programme](https://www.gw4biomed.ac.uk). Application deadline 23rd November 2020.
+
+- *"Does the remodelling of inhibitory interneurons contribute to brain circuit malfunction in preclinical Alzheimer’s disease?"*, to be co-supervised by with [Jon Witton](https://medicine.exeter.ac.uk/people/profile/index.php?web_id=Jonathan_Witton) and [Jon Brown](https://medicine.exeter.ac.uk/people/profile/index.php?web_id=Jonathan_Brown) (both Exeter). Part experimental, part computational project. Longer description [here](https://www.gw4biomed.ac.uk/wp-content/uploads/sites/9/2020/09/MRC21NMHEx-Witton.pdf). Apply directly to the [MRC GW4 Biomed programme](https://www.gw4biomed.ac.uk). Application deadline 23rd November 2020.
+
+- *"Merging maths and biology to understand how the dynamics of dentate gyrus circuitry supports memory formation in hippocampus"*, to be co-supervised by with [Zaf Bashir](http://www.bris.ac.uk/anatomy/research/staff/bashir.html), [Denize Atan](http://www.bristol.ac.uk/medical-school/about/profiles/denize-atan/), [Conor Houghton](https://www.cs.bris.ac.uk/home/cscjh/) (Bristol). Part experimental, part computational project. Longer description [here](https://cpb-eu-w2.wpmucdn.com/blogs.bristol.ac.uk/dist/f/373/files/2020/10/swbio-21-project-77.pdf). Talk to Cian about the project but apply directly to the [BBSRC SWBio programme](https://www.swbio.ac.uk). Application deadline 7th December 2020.
 
 
 ## MSc
