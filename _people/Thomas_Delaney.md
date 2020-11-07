@@ -1,9 +1,9 @@
 ---
 name: Thomas Delaney
-position: gradstudent
+position: alumni
 avatar: ThomasDelaney.jpg
 joined: 9_2016
-affiliation: [with Mike Ashby]
+affiliation: PhD student [with Mike Ashby]
 ---
 
 <img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
