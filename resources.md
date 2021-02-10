@@ -5,6 +5,9 @@ permalink: /resources/
 order: 5
 ---
 
+## Code
+Code for fitting our Population Tracking statistical model to neural population activity data is available here: <https://github.com/cianodonnell/PopulationTracking>.
+
 ## About doing a PhD
 
 PhDs are mysterious to a lot of undergraduate and masters students. In October 2020 I recorded a 20 minute video covering my views on UK PhDs:

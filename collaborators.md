@@ -6,6 +6,7 @@ order: 2
 ---
 
 ## Bristol
+- [Laurence Aitchison](http://www.gatsby.ucl.ac.uk/~laurence/) - Computer Science
 - [Michael Ashby](http://www.bristol.ac.uk/phys-pharm/people/michael-c-ashby) - Physiology, Pharmacology and Neuroscience
 - [Liz Coulthard](http://www.bristol.ac.uk/clinical-sciences/people/liz-j-coulthard/) - Clinical Sciences
 - [Jon Hanley](https://hanleylab.site123.me) - Biochemistry

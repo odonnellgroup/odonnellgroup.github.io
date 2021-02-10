@@ -3,7 +3,7 @@ name: Sofia Raak
 position: gradstudent
 avatar: SofiaRaak.jpg
 joined: 12_2019
-affiliation: [co-supervised by Jon Hanley]
+affiliation: [with Jon Hanley]
 ---
 
 <img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

@@ -3,7 +3,7 @@ name: Kipp Freud
 position: gradstudent
 avatar: KippFreud.jpg
 joined: 11_2019
-affiliation: [with Matt Jones and Liz Coulthard]
+affiliation: [with Matt Jones and Nathan Lepora]
 ---
 
 <img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

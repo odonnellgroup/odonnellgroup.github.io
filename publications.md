@@ -3,7 +3,9 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-
+- Mizusaki B, O’Donnell C.  
+[Neural circuit function redundancy in brain disorders.](https://arxiv.org/pdf/2102.03039.pdf)  
+*arXiv*:2102.03039 [q-bio.NC] (2021)
 - O'Donnell C.  
 [Simplicity, flexibility, and interpretability in a model of dendritic protein distributions](https://www.cell.com/neuron/fulltext/S0896-6273(19)30783-4) (preview)   
 *Neuron* 103 (6), 950-952 (2019)
