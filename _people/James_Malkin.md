@@ -2,7 +2,7 @@
 name: James Malkin
 position: gradstudent
 avatar: JamesMalkin.jpg
-joined: 12_2019
+joined: 12_20191
 affiliation: [with Laurence Aitchison]
 ---
 
