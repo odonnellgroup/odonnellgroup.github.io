@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 - Humphries R, Mellor JR, O’Donnell C.  
 [Acetylcholine boosts dendritic NMDA spikes in a CA3 pyramidal neuron model.](https://www.biorxiv.org/content/10.1101/2021.03.01.433406v1.full.pdf)  
-*bioRxiv** 2021.03.01.433406 (2021)
+*bioRxiv* 2021.03.01.433406 (2021)
 - Mizusaki B, O’Donnell C.  
 [Neural circuit function redundancy in brain disorders.](https://arxiv.org/pdf/2102.03039.pdf)  
 *arXiv*:2102.03039 [q-bio.NC] (2021)
