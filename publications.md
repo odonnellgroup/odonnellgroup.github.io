@@ -13,6 +13,9 @@ permalink: /publications/
 - Mizusaki B, O’Donnell C.  
 [Neural circuit function redundancy in brain disorders.](https://arxiv.org/pdf/2102.03039.pdf)  
 *arXiv*:2102.03039 [q-bio.NC] (2021)
+- Isotalus H, Carr WJ, Averill GG, Radtke O, Selwood J, Williams R, Ford E, McCullagh L, McErlane J, O’Donnell C, Durant C, Bartsch U, Jones MW,  Muñoz-Neira C, Wearn AR, Grogan JP, Coulthard EJ.  
+[Dopamine-gated memory selection during slow wave sleep](https://www.biorxiv.org/content/10.1101/2020.05.23.112375v2)  
+*bioRxiv* 2020.05.23.112375 (2020)
 - O'Donnell C.  
 [Simplicity, flexibility, and interpretability in a model of dendritic protein distributions](https://www.cell.com/neuron/fulltext/S0896-6273(19)30783-4) (preview)   
 *Neuron* 103 (6), 950-952 (2019)
