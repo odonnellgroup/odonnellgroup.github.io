@@ -3,6 +3,10 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+- Rodrigues YR, Tigaret CM, Marie H\*, O’Donnell C\*, Veltz R\*.  
+[A stochastic model of hippocampal synaptic plasticity with geometrical readout of enzyme dynamics.](https://www.biorxiv.org/content/10.1101/2021.03.30.437703v1.full.pdf)  
+*bioRxiv* 2021.03.30.437703 (2021)  
+\*co-senior authors
 - Humphries R, Mellor JR, O’Donnell C.  
 [Acetylcholine boosts dendritic NMDA spikes in a CA3 pyramidal neuron model.](https://www.biorxiv.org/content/10.1101/2021.03.01.433406v1.full.pdf)  
 *bioRxiv* 2021.03.01.433406 (2021)
@@ -51,9 +55,10 @@ permalink: /publications/
 - O’Donnell C and Nolan MF.  
 [Tuning of synaptic responses: an organizing principle for optimization of neural circuits.](http://www.snl.salk.edu/~cian/files/ODonnell_Nolan_Trends_Neurosci_2011.pdf)  
 *Trends Neurosci* 34(2), 51-60 (2011).
-- Cannon RC, O’Donnell C, Nolan MF.  
+- Cannon RC\*, O’Donnell C\*, Nolan MF.  
 [Stochastic ion channel gating in dendritic neurons: morphology dependence and probabilistic synaptic activation of dendritic spikes.](http://www.snl.salk.edu/~cian/files/Cannon_PLoS_Comput_Biol_2010.pdf)  
-*PLoS Comput Biol* 12;6(8) e1000886 (2010).
+*PLoS Comput Biol* 12;6(8) e1000886 (2010).  
+\*co-first authors
 - Garden DLF, Dodson PD, O’Donnell C, White MD, Nolan MF.  
 [Tuning of synaptic integration by entorhinal cortical neurons to the organization of grid fields.](http://www.snl.salk.edu/~cian/files/Garden_Neuron_2008.pdf)  
 *Neuron* 60(5), 875-889 (2008).
