@@ -4,8 +4,8 @@ title: Funding
 permalink: /funding/
 ---
 ## Current funding ##
-- Biological and Biotechnology Research Council
-*Synaptic strength instability from stochastic gene expression in neurons*
+- Biological and Biotechnology Research Council  
+*Synaptic strength instability from stochastic gene expression in neurons*  
 2021-2023
 - Leverhulme Trust Research Project Grant.  
 *Generalisable neural learning from noisy synapses*.  
