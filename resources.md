@@ -24,4 +24,15 @@ Slides pdf [here](https://github.com/odonnellgroup/odonnellgroup.github.io/raw/m
 
 It was originally recorded for Bristol Computer Science students but should be relevant for anyone interested in a Science/Engineering PhD in the UK.
 
+
+## About asking questions in meetings and seminars
+We did a group brainstorming session on asking questions:
+- Benefits of asking questions
+- Types of questions
+- Why people realistically often *don't* ask questions
+- How to construct good seminar questions
+
+Slides pdf [here](https://figshare.com/articles/presentation/Asking_questions_in_meetings_and_seminars/14790933).
+
+
 {% include footer.html %}
