@@ -6,6 +6,8 @@ order: 6
 ---
 
 ## Postdoc
+**Upcoming job opportunity**: join a 3-year BBSRC-funded project on spatial models of stochastic gene expression in neurons. Please contact Cian for more information - formal job advert will up soon.
+
 *We are always interested in hearing from potential postdocs*. Please contact Cian early and we can work on figuring out funding. Options include:
 
 - applying for a research grant from the UK government ([BBSRC](https://bbsrc.ukri.org/funding/), [MRC](https://mrc.ukri.org/funding/), [EPSRC](https://epsrc.ukri.org/funding/)) or charity (e.g. [Wellcome Trust](https://wellcome.ac.uk/funding), [Leverhulme Trust](https://www.leverhulme.ac.uk/schemes-at-a-glance)) with you as a named postdoc.

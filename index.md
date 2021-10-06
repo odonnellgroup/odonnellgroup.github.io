@@ -6,10 +6,11 @@ layout: page
 title: O'Donnell group
 ---
 ![Image by Ahmed Gad from Pixabay](https://github.com/odonnellgroup/odonnellgroup.github.io/raw/master/docs/banner_small.png)
+![Group members](https://github.com/odonnellgroup/odonnellgroup.github.io/raw/master/docs/everyone.jpg)
 
 ## About ##
 
-We are a computational neuroscience research group and part of the [Bristol Neural Computation Hub](https://bristolcnu.github.io) at the [University of Bristol](http://www.bristol.ac.uk) in the fine city of Bristol, in south-west UK. In October 2021 we will move to the Magee campus of Ulster University, in Derry, Northern Ireland.
+We are a computational neuroscience research group, split between [Ulster University](http://www.ulster.ac.uk) in Derry/Londonderry, Northern Ireland, and [University of Bristol](http://www.bristol.ac.uk) in Bristol, in south-west England.
 
 ## Research ##
 We work on three main areas: *Learning & Memory*, *Autism*, and *Statistical methods for neural data*.
