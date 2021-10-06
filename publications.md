@@ -10,12 +10,12 @@ permalink: /publications/
 - Humphries R, Mellor JR, O’Donnell C.  
 [Acetylcholine boosts dendritic NMDA spikes in a CA3 pyramidal neuron model.](https://www.biorxiv.org/content/10.1101/2021.03.01.433406v1.full.pdf)  
 *bioRxiv* 2021.03.01.433406 (2021)
-- Mizusaki B, O’Donnell C.  
-[Neural circuit function redundancy in brain disorders.](https://arxiv.org/pdf/2102.03039.pdf)  
-*arXiv*:2102.03039 [q-bio.NC] (2021)
 - Isotalus H, Carr WJ, Averill GG, Radtke O, Selwood J, Williams R, Ford E, McCullagh L, McErlane J, O’Donnell C, Durant C, Bartsch U, Jones MW,  Muñoz-Neira C, Wearn AR, Grogan JP, Coulthard EJ.  
 [Dopamine-gated memory selection during slow wave sleep](https://www.biorxiv.org/content/10.1101/2020.05.23.112375v2)  
 *bioRxiv* 2020.05.23.112375 (2020)
+- Mizusaki B, O’Donnell C.  
+[Neural circuit function redundancy in brain disorders.](https://www.sciencedirect.com/science/article/pii/S0959438821000787/pdfft?isDTMRedir=true&download=true)  
+*Curr Opin Neurobiol* 70:74--80 (2021)
 - O'Donnell C.  
 [Simplicity, flexibility, and interpretability in a model of dendritic protein distributions](https://www.cell.com/neuron/fulltext/S0896-6273(19)30783-4) (preview)   
 *Neuron* 103 (6), 950-952 (2019)
