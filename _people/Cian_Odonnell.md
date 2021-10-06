@@ -7,20 +7,22 @@ joined: 10_2015
 affiliation:
 ---
 <img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
-<!--- _Lecturer in Computer Science, Dept of Computer Science, SCEEM, Faculty of Engineering, University of Bristol_<br>-->
+<!--- _Lecturer in Data Analytics, School of Computing, Engineering and Intelligent Systems, Ulster University (Magee Campus)_<br>-->
 
-<i class="fa fa-envelope-o"></i> `first.last [but without the apostrophe] at bristol.ac.uk`<br>
+<i class="fa fa-envelope-o"></i> `c.odonnell2 [at] ulster.ac.uk`<br>
 <i class="fa fa-book"></i> <a href="https://scholar.google.co.uk/citations?user=KGKHB2QAAAAJ&hl=en">`google scholar`</a><br>
 
 <!--**Office**<br>
-Merchant Venturers Building<br>
-Woodland Road<br>
-Bristol, BS8 1UB, England, United Kingdom<br>-->
+MS building<br>
+ISRC<br>
+Ulster University<br>
+Derry/Londonderry, BT48 7JL, Northern Ireland, United Kingdom<br>-->
 
 I work on synaptic plasticity, memory, neural circuits in autism, and statistical methods for neural data analysis.
 
 History:  
-**2015-present:** Lecturer in Dept of Computer Science, University of Bristol.  
+**2021:** Senior Lecturer in Dept of Computer Science, University of Bristol. 
+**2015-2020:** Lecturer in Dept of Computer Science, University of Bristol.  
 **2012-2015:** Computational neuroscience postdoc with Terry Sejnowski at the Computational Neurobiology Laboratory in the Salk Institute, La Jolla, California.  
 **2011:** Neuroscience postdoc with Matt Nolan, University of Edinburgh.  
 **2007-2011:** PhD in Computational Neuroscience with Mark van Rossum and Matt Nolan in the Neuroinformatics Doctoral Training Centre, University of Edinburgh.  
