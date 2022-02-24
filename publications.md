@@ -7,9 +7,12 @@ permalink: /publications/
 [A stochastic model of hippocampal synaptic plasticity with geometrical readout of enzyme dynamics.](https://www.biorxiv.org/content/10.1101/2021.03.30.437703v1.full.pdf)  
 *bioRxiv* 2021.03.30.437703 (2021)  
 \*co-senior authors
+- Griesius, S., O’Donnell, C., Waldron, S., Thomas, K.L., Dwyer, D.M., Wilkinson, L.S., Hall, J., Robinson, E.S. and Mellor, J.R.  
+Reduced expression of the psychiatric risk gene DLG2 (PSD93) impairs hippocampal synaptic integration and plasticity.  
+*Neuropsychopharmacology* (2022)  
 - Humphries R, Mellor JR, O’Donnell C.  
 [Acetylcholine boosts dendritic NMDA spikes in a CA3 pyramidal neuron model.](https://www.biorxiv.org/content/10.1101/2021.03.01.433406v1.full.pdf)  
-*bioRxiv* 2021.03.01.433406 (2021)
+*Neuroscience* (2021)
 - Isotalus H, Carr WJ, Averill GG, Radtke O, Selwood J, Williams R, Ford E, McCullagh L, McErlane J, O’Donnell C, Durant C, Bartsch U, Jones MW,  Muñoz-Neira C, Wearn AR, Grogan JP, Coulthard EJ.  
 [Dopamine-gated memory selection during slow wave sleep](https://www.biorxiv.org/content/10.1101/2020.05.23.112375v2)  
 *bioRxiv* 2020.05.23.112375 (2020)
