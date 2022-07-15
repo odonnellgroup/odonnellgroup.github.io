@@ -3,7 +3,7 @@ name: Sydney Dimmock
 position: gradstudent
 avatar: SydneyDimmock.jpg
 joined: 10_2019
-affiliation: [with Clea Warburton]
+affiliation: [with Conor Houghton]
 ---
 
 <img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
