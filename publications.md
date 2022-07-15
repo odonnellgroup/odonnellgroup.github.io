@@ -3,19 +3,26 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+
+## Preprints
+- Delaney TJ, O'Donnell C.
+[Fast-local and slow-global neural ensembles in the mouse brain.](https://www.biorxiv.org/content/10.1101/2022.07.14.500088v1.full.pdf)
+*bioRxiv* 2022.07.14.500088 (2022) 
 - Rodrigues YR, Tigaret CM, Marie H\*, O’Donnell C\*, Veltz R\*.  
 [A stochastic model of hippocampal synaptic plasticity with geometrical readout of enzyme dynamics.](https://www.biorxiv.org/content/10.1101/2021.03.30.437703v1.full.pdf)  
 *bioRxiv* 2021.03.30.437703 (2021)  
 \*co-senior authors
+- Isotalus H, Carr WJ, Averill GG, Radtke O, Selwood J, Williams R, Ford E, McCullagh L, McErlane J, O’Donnell C, Durant C, Bartsch U, Jones MW,  Muñoz-Neira C, Wearn AR, Grogan JP, Coulthard EJ.  
+[Dopamine-gated memory selection during slow wave sleep](https://www.biorxiv.org/content/10.1101/2020.05.23.112375v2)  
+*bioRxiv* 2020.05.23.112375 (2020)
+
+## Peer-reviewed papers
 - Griesius, S., O’Donnell, C., Waldron, S., Thomas, K.L., Dwyer, D.M., Wilkinson, L.S., Hall, J., Robinson, E.S. and Mellor, J.R.  
 Reduced expression of the psychiatric risk gene DLG2 (PSD93) impairs hippocampal synaptic integration and plasticity.  
 *Neuropsychopharmacology* (2022)  
 - Humphries R, Mellor JR, O’Donnell C.  
 [Acetylcholine boosts dendritic NMDA spikes in a CA3 pyramidal neuron model.](https://www.biorxiv.org/content/10.1101/2021.03.01.433406v1.full.pdf)  
 *Neuroscience* (2021)
-- Isotalus H, Carr WJ, Averill GG, Radtke O, Selwood J, Williams R, Ford E, McCullagh L, McErlane J, O’Donnell C, Durant C, Bartsch U, Jones MW,  Muñoz-Neira C, Wearn AR, Grogan JP, Coulthard EJ.  
-[Dopamine-gated memory selection during slow wave sleep](https://www.biorxiv.org/content/10.1101/2020.05.23.112375v2)  
-*bioRxiv* 2020.05.23.112375 (2020)
 - Mizusaki B, O’Donnell C.  
 [Neural circuit function redundancy in brain disorders.](https://www.sciencedirect.com/science/article/pii/S0959438821000787/pdfft?isDTMRedir=true&download=true)  
 *Curr Opin Neurobiol* 70:74--80 (2021)
