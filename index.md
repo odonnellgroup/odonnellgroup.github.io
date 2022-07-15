@@ -16,15 +16,15 @@ We are a computational neuroscience research group, split between [Ulster Univer
 We work on three main areas: *Learning & Memory*, *Autism*, and *Statistical methods for neural data*.
 
 **Learning and Memory**  
-- What are the mechanisms and rules of synaptic plasticity? Work by [Beatriz](https://odonnellgroup.github.io/people/Beatriz_Mizusaki), [Rachel](https://odonnellgroup.github.io/people/Rachel_Humphries) and [Cian](https://odonnellgroup.github.io/people/Cian_Odonnell).  
+- What are the mechanisms and rules of synaptic plasticity? Work by [Beatriz](https://odonnellgroup.github.io/people/Beatriz_Mizusaki) and [Cian](https://odonnellgroup.github.io/people/Cian_Odonnell).  
 - Heterosynaptic plasticity: how do neighboring synapses on a dendrite influence each other? Work by [Rahul](https://odonnellgroup.github.io/people/Rahul_Gupta) and [Sofia](https://odonnellgroup.github.io/people/Sofia_Raak).  
-- How does neural replay during sleep contribute to memory? Work by [Will](https://odonnellgroup.github.io/people/Will_Carr) and [Kipp](https://odonnellgroup.github.io/people/Kipp_Freud).  
-- How does mitochondria trafficking affect synapse turnover in axons? Work by [Naomi](https://odonnellgroup.github.io/people/Naomi_Berthaut).  
-- How can synapses learn probabilistically and energy-efficiently? Work by [James](https://odonnellgroup.github.io/people/James_Malkin)
+- What are the rules by which mitochondria get trafficked in long axons? Work by [Naomi](https://odonnellgroup.github.io/people/Naomi_Berthaut).  
+- How can synapses learn probabilistically and energy-efficiently? Work by [James](https://odonnellgroup.github.io/people/James_Malkin).
+- How do synapses remain stable in the face of stochastic gene expression? Work by [Oleg](https://odonnellgroup.github.io/people/Oleg_Senkevich).
 
 
 **Statistical methods for neural data**  
-How should we analyse data from large numbers of neurons? We work on statistical methods for analysing large-scale neural datasets, including: probabilistic models of neural population activity distributions, network science methods, and bayesian hierarchal modelling.<br/>
+How should we analyse data from large numbers of neurons? We work on statistical methods for analysing large-scale neural datasets, including: deep neural networks, probabilistic models of neural population activity distributions, and bayesian hierarchal modelling.<br/>
 Work by [Sydney](https://odonnellgroup.github.io/people/Sydney_Dimmock), [Kipp](https://odonnellgroup.github.io/people/Kipp_Freud) and [Cian](https://odonnellgroup.github.io/people/Cian_Odonnell).
 
 

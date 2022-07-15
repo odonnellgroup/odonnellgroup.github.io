@@ -1,5 +1,5 @@
 ---
-name: Oleg Sekevich
+name: Oleg Senkevich
 position: postdoc
 avatar: blank.png
 twitter:
