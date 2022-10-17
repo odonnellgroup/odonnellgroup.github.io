@@ -17,7 +17,7 @@ affiliation:
 
 <b>{{page.affiliation}}</b>
 
-<i class="fa fa-book"></i> <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=rlB-OQgAAAAJ">`google scholar`</a><br>
+<i class="fa fa-book"></i> <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=rlB-OQgAAAAJ">`Google scholar`</a><br>
 
 <header class="masthead text-justify" style="font-size:120%">
 A neuron typically receives tens of thousands of synapses from several presynaptic neurons. However, the mechanisms underlying the selective learning of the neuron to a vast variety of input spike patterns are still unclear. The differential learning not only involves neuron-wide global mechanisms but also a rich set of local mechanisms at play within a short stretch of dendrite carrying multiple synapses.  This is exactly where I am interested, to study how the dynamics of synaptic plasticity at neighbouring synapses may mutually influence each other, leading to complex synergistic as well as competitive interactions at multiple spatial and temporal scales to shape the local dendritic learning. Further, I am also interested in understanding how the local and global mechanisms may simultaneously interact with each other and to what extent the local mechanisms are independent in shaping learning. In this effort, a major strategy will be construction of data-constrained analytical models as well as detailed biophysical models. This work is generously supported by Leverhulme Trust.
