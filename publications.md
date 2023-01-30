@@ -5,6 +5,9 @@ permalink: /publications/
 ---
 
 ## Preprints
+- Gupta R, O'Donnell C.  
+[Dendritic spine neck plasticity controls synaptic expression of long-term potentiation.](https://doi.org/10.1101/2023.01.27.525952)  
+*bioRxiv* (2023) 
 - Dimmock S, O'Donnell C, Houghton C.  
 [Bayesian analysis of phase data in EEG and MEG.](https://psyarxiv.com/2vcsy)  
 *PsyArXiv* (2022) 
