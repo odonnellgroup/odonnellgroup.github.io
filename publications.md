@@ -11,9 +11,6 @@ permalink: /publications/
 - Dimmock S, O'Donnell C, Houghton C.  
 [Bayesian analysis of phase data in EEG and MEG.](https://psyarxiv.com/2vcsy)  
 *PsyArXiv* (2022) 
-- Delaney TJ, O'Donnell C.  
-[Fast-local and slow-global neural ensembles in the mouse brain.](https://www.biorxiv.org/content/10.1101/2022.07.14.500088v1.full.pdf)  
-*bioRxiv* 2022.07.14.500088 (2022) 
 - Rodrigues YR, Tigaret CM, Marie H\*, O’Donnell C\*, Veltz R\*.  
 [A stochastic model of hippocampal synaptic plasticity with geometrical readout of enzyme dynamics.](https://www.biorxiv.org/content/10.1101/2021.03.30.437703v1.full.pdf)  
 *bioRxiv* 2021.03.30.437703 (2021)  
@@ -23,6 +20,9 @@ permalink: /publications/
 *bioRxiv* 2020.05.23.112375 (2020)
 
 ## Journal papers
+- Delaney TJ, O'Donnell C.  
+[Fast-local and slow-global neural ensembles in the mouse brain.](https://www.biorxiv.org/content/10.1101/2022.07.14.500088v1.full.pdf)  
+*Network Neuroscience, in press*
 - Griesius, S, O’Donnell, C, Waldron, S, Thomas, KL, Dwyer, DM, Wilkinson, LS, Hall, J, Robinson, ES and Mellor, JR.  
 [Reduced expression of the psychiatric risk gene DLG2 (PSD93) impairs hippocampal synaptic integration and plasticity.](https://www.nature.com/articles/s41386-022-01277-6)  
 *Neuropsychopharmacology* 47:1367-–1378 (2022)  
