@@ -18,7 +18,7 @@ permalink: /publications/
 ## Journal papers
 - Rodrigues YR, Tigaret CM, Marie H\*, O’Donnell C\*, Veltz R\*.  
 [A stochastic model of hippocampal synaptic plasticity with geometrical readout of enzyme dynamics.](https://www.biorxiv.org/content/10.1101/2021.03.30.437703v2.full.pdf)  
-*eLife, in press* 
+*eLife, in press*  
 \*co-senior authors
 - Delaney TJ, O'Donnell C.  
 [Fast-local and slow-global neural ensembles in the mouse brain.](https://www.biorxiv.org/content/10.1101/2022.07.14.500088v1.full.pdf)  
