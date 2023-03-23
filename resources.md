@@ -19,7 +19,7 @@ PhDs are mysterious to a lot of undergraduate and masters students. In October 2
 
 [![Want to do a PhD?](https://github.com/odonnellgroup/odonnellgroup.github.io/raw/master/docs/PhDvideo_screenshot.png)](https://vimeo.com/476277607 "Want to do a PhD?")
 
-Video here: [https://vimeo.com/476277607](https://vimeo.com/476277607).  
+Video here: [https://www.youtube.com/watch?v=8WNHHp2gT7s](https://www.youtube.com/watch?v=8WNHHp2gT7s).  
 Slides pdf [here](https://github.com/odonnellgroup/odonnellgroup.github.io/raw/master/docs/DoingAPhD_CianODonnell.pdf).
 
 It was originally recorded for Bristol Computer Science students but should be relevant for anyone interested in a Science/Engineering PhD in the UK.
