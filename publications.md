@@ -11,15 +11,15 @@ permalink: /publications/
 - Dimmock S, O'Donnell C, Houghton C.  
 [Bayesian analysis of phase data in EEG and MEG.](https://psyarxiv.com/2vcsy)  
 *PsyArXiv* (2022) 
-- Rodrigues YR, Tigaret CM, Marie H\*, O’Donnell C\*, Veltz R\*.  
-[A stochastic model of hippocampal synaptic plasticity with geometrical readout of enzyme dynamics.](https://www.biorxiv.org/content/10.1101/2021.03.30.437703v1.full.pdf)  
-*bioRxiv* 2021.03.30.437703 (2021)  
-\*co-senior authors
 - Isotalus H, Carr WJ, Averill GG, Radtke O, Selwood J, Williams R, Ford E, McCullagh L, McErlane J, O’Donnell C, Durant C, Bartsch U, Jones MW,  Muñoz-Neira C, Wearn AR, Grogan JP, Coulthard EJ.  
 [Dopamine-gated memory selection during slow wave sleep](https://www.biorxiv.org/content/10.1101/2020.05.23.112375v2)  
 *bioRxiv* 2020.05.23.112375 (2020)
 
 ## Journal papers
+- Rodrigues YR, Tigaret CM, Marie H\*, O’Donnell C\*, Veltz R\*.  
+[A stochastic model of hippocampal synaptic plasticity with geometrical readout of enzyme dynamics.](https://www.biorxiv.org/content/10.1101/2021.03.30.437703v2.full.pdf)  
+*eLife, in press* 
+\*co-senior authors
 - Delaney TJ, O'Donnell C.  
 [Fast-local and slow-global neural ensembles in the mouse brain.](https://www.biorxiv.org/content/10.1101/2022.07.14.500088v1.full.pdf)  
 *Network Neuroscience, in press*
