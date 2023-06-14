@@ -5,6 +5,9 @@ permalink: /publications/
 ---
 
 ## Preprints
+- O'Donnell C.  
+[Nonlinear slow-timescale mechanisms in synaptic plasticity.](https://arxiv.org/abs/2306.07801)  
+*arXiv* (2023)
 - Gupta R, O'Donnell C.  
 [Dendritic spine neck plasticity controls synaptic expression of long-term potentiation.](https://doi.org/10.1101/2023.01.27.525952)  
 *bioRxiv* (2023) 
@@ -14,18 +17,18 @@ permalink: /publications/
 
 ## Journal papers
 - Isotalus H, Carr WJ, Averill GG, Radtke O, Selwood J, Williams R, Ford E, McCullagh L, McErlane J, O’Donnell C, Durant C, Bartsch U, Jones MW,  Muñoz-Neira C, Wearn AR, Grogan JP, Coulthard EJ.  
-[Dopamine-gated memory selection during slow wave sleep](https://www.biorxiv.org/content/10.1101/2020.05.23.112375v2)  
-*Frontiers in Behavioural Neuroscience, in press*
+[L-DOPA increases slow-wave sleep duration and selectively modulates memory persistence in older adults](https://doi.org/10.3389/fnbeh.2023.1096720)  
+*Frontiers in Behavioural Neuroscience* 17 (2023)
 - Rodrigues YR, Tigaret CM, Marie H\*, O’Donnell C\*, Veltz R\*.  
 [A stochastic model of hippocampal synaptic plasticity with geometrical readout of enzyme dynamics.](https://www.biorxiv.org/content/10.1101/2021.03.30.437703v2.full.pdf)  
 *eLife, in press*  
 \*co-senior authors
 - Delaney TJ, O'Donnell C.  
-[Fast-local and slow-global neural ensembles in the mouse brain.](https://www.biorxiv.org/content/10.1101/2022.07.14.500088v1.full.pdf)  
-*Network Neuroscience, in press*
+[Fast-local and slow-global neural ensembles in the mouse brain.](https://doi.org/10.1162/netn_a_00309)  
+*Network Neuroscience* 7(2):731--742 (2023)
 - Griesius, S, O’Donnell, C, Waldron, S, Thomas, KL, Dwyer, DM, Wilkinson, LS, Hall, J, Robinson, ES and Mellor, JR.  
 [Reduced expression of the psychiatric risk gene DLG2 (PSD93) impairs hippocampal synaptic integration and plasticity.](https://www.nature.com/articles/s41386-022-01277-6)  
-*Neuropsychopharmacology* 47:1367-–1378 (2022)  
+*Neuropsychopharmacology* 47:1367--1378 (2022)  
 - Humphries R, Mellor JR, O’Donnell C.  
 [Acetylcholine boosts dendritic NMDA spikes in a CA3 pyramidal neuron model.](https://www.biorxiv.org/content/10.1101/2021.03.01.433406v1.full.pdf)  
 *Neuroscience* 489:69--83 (2021)
