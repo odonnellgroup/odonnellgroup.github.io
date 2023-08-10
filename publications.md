@@ -5,9 +5,6 @@ permalink: /publications/
 ---
 
 ## Preprints
-- O'Donnell C.  
-[Nonlinear slow-timescale mechanisms in synaptic plasticity.](https://arxiv.org/abs/2306.07801)  
-*arXiv* (2023)
 - Gupta R, O'Donnell C.  
 [Dendritic spine neck plasticity controls synaptic expression of long-term potentiation.](https://doi.org/10.1101/2023.01.27.525952)  
 *bioRxiv* (2023) 
@@ -16,6 +13,9 @@ permalink: /publications/
 *PsyArXiv* (2022) 
 
 ## Journal papers
+- O'Donnell C.  
+[Nonlinear slow-timescale mechanisms in synaptic plasticity.](https://arxiv.org/abs/2306.07801)  
+*Current Opinion in Neurobiology* (in press) 
 - Isotalus H, Carr WJ, Averill GG, Radtke O, Selwood J, Williams R, Ford E, McCullagh L, McErlane J, O’Donnell C, Durant C, Bartsch U, Jones MW,  Muñoz-Neira C, Wearn AR, Grogan JP, Coulthard EJ.  
 [L-DOPA increases slow-wave sleep duration and selectively modulates memory persistence in older adults](https://doi.org/10.3389/fnbeh.2023.1096720)  
 *Frontiers in Behavioural Neuroscience* 17 (2023)

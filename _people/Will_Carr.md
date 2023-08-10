@@ -1,9 +1,9 @@
 ---
 name: Will Carr
-position: gradstudent
+position: alumni
 avatar: WillCarr.jpg
 joined: 9_2018
-affiliation: [with Liz Coulthard]
+affiliation: [PhD student, with Liz Coulthard]
 ---
 
 <img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

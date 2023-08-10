@@ -1,10 +1,10 @@
 ---
 name: Rahul Gupta
-position: postdoc
+position: alumni
 avatar: RahulGupta.jpg
 twitter:
 joined: 10_2019
-affiliation:
+affiliation: [postdoc 2020-2023]
 ---
 
 <img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

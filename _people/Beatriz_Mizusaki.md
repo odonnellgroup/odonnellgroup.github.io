@@ -1,10 +1,10 @@
 ---
 name: Beatriz Mizusaki
-position: postdoc
+position: alumni
 avatar: BeatrizMizusaki.jpg
 twitter:
 joined: 7_2018
-affiliation:
+affiliation: [postdoc 2018-2023]
 ---
 
 <img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

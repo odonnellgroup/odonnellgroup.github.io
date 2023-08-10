@@ -3,7 +3,7 @@ name: Rachel Humphries
 position: alumni
 avatar: RachelHumphries.jpg
 joined: 9_2018
-affiliation: [with Jack Mellor]
+affiliation: [PhD student, with Jack Mellor]
 ---
 
 <img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
