@@ -5,10 +5,13 @@ permalink: /publications/
 ---
 
 ## Preprints
+- Malkin J, O'Donnell C, Houghton CJ, Aitchison L.
+[Signatures of Bayesian inference emerge from energy efficient synapses.](https://arxiv.org/abs/2309.03194)  
+*arXiv* (2023) 
 - Gupta R, O'Donnell C.  
 [Dendritic spine neck plasticity controls synaptic expression of long-term potentiation.](https://doi.org/10.1101/2023.01.27.525952)  
 *bioRxiv* (2023) 
-- Dimmock S, O'Donnell C, Houghton C.  
+- Dimmock SJ, O'Donnell C, Houghton CJ.  
 [Bayesian analysis of phase data in EEG and MEG.](https://psyarxiv.com/2vcsy)  
 *PsyArXiv* (2022) 
 
