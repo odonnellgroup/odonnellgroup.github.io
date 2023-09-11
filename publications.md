@@ -11,11 +11,11 @@ permalink: /publications/
 - Gupta R, O'Donnell C.  
 [Dendritic spine neck plasticity controls synaptic expression of long-term potentiation.](https://doi.org/10.1101/2023.01.27.525952)  
 *bioRxiv* (2023) 
-- Dimmock SJ, O'Donnell C, Houghton CJ.  
-[Bayesian analysis of phase data in EEG and MEG.](https://psyarxiv.com/2vcsy)  
-*PsyArXiv* (2022) 
 
 ## Journal papers
+- Dimmock SJ, O'Donnell C, Houghton CJ.  
+[Bayesian analysis of phase data in EEG and MEG.](https://psyarxiv.com/2vcsy)  
+*eLife* (in press) 
 - O'Donnell C.  
 [Nonlinear slow-timescale mechanisms in synaptic plasticity.](https://authors.elsevier.com/a/1hgXy3Q9h2EelA)  
 *Current Opinion in Neurobiology* 82:102778 (2023)
@@ -23,8 +23,8 @@ permalink: /publications/
 [L-DOPA increases slow-wave sleep duration and selectively modulates memory persistence in older adults](https://doi.org/10.3389/fnbeh.2023.1096720)  
 *Frontiers in Behavioural Neuroscience* 17 (2023)
 - Rodrigues YR, Tigaret CM, Marie H\*, O’Donnell C\*, Veltz R\*.  
-[A stochastic model of hippocampal synaptic plasticity with geometrical readout of enzyme dynamics.](https://www.biorxiv.org/content/10.1101/2021.03.30.437703v2.full.pdf)  
-*eLife, in press*  
+[A stochastic model of hippocampal synaptic plasticity with geometrical readout of enzyme dynamics.](https://elifesciences.org/articles/80152.pdf)  
+*eLife* 12: e80152 (2023)  
 \*co-senior authors
 - Delaney TJ, O'Donnell C.  
 [Fast-local and slow-global neural ensembles in the mouse brain.](https://doi.org/10.1162/netn_a_00309)  
