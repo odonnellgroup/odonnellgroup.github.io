@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 ## Preprints
-- Malkin J, O'Donnell C, Houghton CJ, Aitchison L.
+- Malkin J, O'Donnell C, Houghton CJ, Aitchison L.  
 [Signatures of Bayesian inference emerge from energy efficient synapses.](https://arxiv.org/abs/2309.03194)  
 *arXiv* (2023) 
 - Gupta R, O'Donnell C.  
@@ -17,8 +17,8 @@ permalink: /publications/
 
 ## Journal papers
 - O'Donnell C.  
-[Nonlinear slow-timescale mechanisms in synaptic plasticity.](https://arxiv.org/abs/2306.07801)  
-*Current Opinion in Neurobiology* (in press) 
+[Nonlinear slow-timescale mechanisms in synaptic plasticity.](https://authors.elsevier.com/a/1hgXy3Q9h2EelA)  
+*Current Opinion in Neurobiology* 82:102778 (2023)
 - Isotalus H, Carr WJ, Averill GG, Radtke O, Selwood J, Williams R, Ford E, McCullagh L, McErlane J, O’Donnell C, Durant C, Bartsch U, Jones MW,  Muñoz-Neira C, Wearn AR, Grogan JP, Coulthard EJ.  
 [L-DOPA increases slow-wave sleep duration and selectively modulates memory persistence in older adults](https://doi.org/10.3389/fnbeh.2023.1096720)  
 *Frontiers in Behavioural Neuroscience* 17 (2023)
