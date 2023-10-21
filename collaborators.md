@@ -19,6 +19,3 @@ order: 2
 [//]: # ([Mark Mayford](https://medschool.ucsd.edu/education/neurograd/faculty/Pages/mark-mayford.aspx) - University of California Los Angeles)
 
 [//]: # (Andreas Frick](https://neurocentre-magendie.fr/recherche/Frick/descriptionTeam.php) - Bordeaux)
-
-
-http://www.noamziv.net.technion.ac.il/
