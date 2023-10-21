@@ -66,5 +66,4 @@ permalink: /people/
 </div>
 <hr>
 {% endfor %}
-</ul>
 {% include footer.html %}

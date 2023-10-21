@@ -1,5 +1,5 @@
 ---
-name: James Malkin
+name: James McAllister
 position: gradstudent
 avatar: JamesMcallister.jpg
 joined: 12_201912
