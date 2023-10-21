@@ -16,10 +16,10 @@ We are a computational neuroscience research group, split between [Ulster Univer
 We work on three main areas: *Learning & Memory*, *Autism*, and *Statistical methods for neural data*.
 
 **Learning and Memory**  
-- Heterosynaptic plasticity: how do neighboring synapses on a dendrite influence each other? Work by [Sofia](https://odonnellgroup.github.io/people/Sofia_Raak).  
+- Heterosynaptic plasticity: how do neighboring synapses on a dendrite influence each other? Work by [Sofia](https://odonnellgroup.github.io/people/Sofia_Raak) and [James Mc](https://odonnellgroup.github.io/people/James_Mcallister).  
 - What are the mechanisms and rules of synaptic plasticity? Work by [Cian](https://odonnellgroup.github.io/people/Cian_Odonnell).  
 - What are the rules by which mitochondria get trafficked in long axons? Work by [Naomi](https://odonnellgroup.github.io/people/Naomi_Berthaut).  
-- How can synapses learn probabilistically and energy-efficiently? Work by [James](https://odonnellgroup.github.io/people/James_Malkin).
+- How can synapses learn probabilistically and energy-efficiently? Work by [James Malkin](https://odonnellgroup.github.io/people/James_Malkin).
 - How do synapses remain stable in the face of stochastic gene expression? Work by [Oleg](https://odonnellgroup.github.io/people/Oleg_Senkevich).
 
 
