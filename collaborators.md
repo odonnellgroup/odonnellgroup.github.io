@@ -11,6 +11,7 @@ order: 2
 - [Conor Houghton](https://www.cs.bris.ac.uk/home/cscjh/) - University of Bristol
 - [Carlos Portera-Cailliau](http://porteralab.neurology.ucla.edu/) - University of California Los Angeles, USA
 - [Romain Veltz](http://romainveltz.pythonanywhere.com/) - INRIA, Sophia-Antipolis, France
+- [John Wade](https://www.ulster.ac.uk/staff/jj-wade) - Ulster University
 - [Clea Warburton](http://www.bristol.ac.uk/phys-pharm/people/clea-c-warburton) - University of Bristol
 - [Noam Ziv](http://www.noamziv.net.technion.ac.il) - Technion, Israel
 

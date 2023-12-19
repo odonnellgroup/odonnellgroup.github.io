@@ -16,7 +16,7 @@ order: 6
 
 ## PhD
 **Current opening: NeuroAI approaches to understanding inter-individual differences in cognition and psychiatric disorders**  
-Collaboration with Prof Liam McDaid (Ulster University) and Dr Kevin Mitchell (Trinity College Dublin).  
+Collaboration with [Prof Liam McDaid](https://www.ulster.ac.uk/staff/lj-mcdaid) (Ulster University) and [Dr Kevin Mitchell](https://www.kjmitchell.com) (Trinity College Dublin).  
 
 An important unsolved problem in psychology and neuroscience is: what determines the cognitive differences between individual people? And relatedly, why do some people develop psychiatric disorders while others don’t? One clue may come from the fact that human brain wiring is partially specified by our genomes. Modern genetics has found that a large fraction of both inter-individual cognitive differences and psychiatric disorder risk is due to inter-individual variations in our DNA: for example autism is believed to be ~80 percent genetic, while schizophrenia is ~50 percent genetic [Mitchell 2018](https://press.princeton.edu/books/hardcover/9780691173887/innate).
 
