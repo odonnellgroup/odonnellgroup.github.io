@@ -5,11 +5,17 @@ permalink: /publications/
 ---
 
 ## Preprints
+- Freud K, Lepora N, Jones MW, O'Donnell C.  
+Deep learning-based location decoding reveals that across-day representational drift is better predicted by rewarded experience than time  
+*bioRxiv* (2024)
 - Gupta R, O'Donnell C.  
 [Dendritic spine neck plasticity controls synaptic expression of long-term potentiation.](https://doi.org/10.1101/2023.01.27.525952)  
 *bioRxiv* (2023) 
 
-## Journal papers
+## Journal and conference papers
+- Freud K, Lepora N, Jones MW, O'Donnell C.  
+[BrainSLAM: SLAM on Neural Population Activity Data](https://arxiv.org/abs/2402.00588)  
+*International Conference on Autonomous Agents and Multiagent Systems 2024* (accepted)
 - Malkin J, O'Donnell C, Houghton CJ, Aitchison L.  
 [Signatures of Bayesian inference emerge from energy efficient synapses.](https://elifesciences.org/reviewed-preprints/92595)  
 *eLife* (2023)  
