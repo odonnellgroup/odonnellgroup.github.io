@@ -15,7 +15,7 @@ Deep learning-based location decoding reveals that across-day representational d
 ## Journal and conference papers
 - Freud K, Lepora N, Jones MW, O'Donnell C.  
 [BrainSLAM: SLAM on Neural Population Activity Data](https://arxiv.org/abs/2402.00588)  
-*International Conference on Autonomous Agents and Multiagent Systems 2024* (accepted)
+*Proc. of the 23rd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2024)*
 - Malkin J, O'Donnell C, Houghton CJ, Aitchison L.  
 [Signatures of Bayesian inference emerge from energy efficient synapses.](https://elifesciences.org/reviewed-preprints/92595)  
 *eLife* (2023)  

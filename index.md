@@ -30,6 +30,6 @@ Work by [Sydney](https://odonnellgroup.github.io/people/Sydney_Dimmock), [Kipp](
 
 **Autism**  
 What is different in the brains of autistic people? We collaborate with researchers who work on animal models of autism to ask what is different at the level of neural circuits. Currently we are working on the *neural variability hypothesis*: that the brains of autistic people respond with more variability to sensory stimuli. Also asking how computational modelling can inform neural circuit-level understanding of autism mechanisms.<br/>
-Work by [Beatriz](https://odonnellgroup.github.io/people/Beatriz_Mizusaki) and [Cian](https://odonnellgroup.github.io/people/Cian_Odonnell).
+Work by [Cian](https://odonnellgroup.github.io/people/Cian_Odonnell).
 
 {% include footer.html %}
