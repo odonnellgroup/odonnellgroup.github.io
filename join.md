@@ -15,23 +15,6 @@ order: 6
    - [Marie Cure individual fellowship](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en) (1-2 years funding, need a PhD at time of application. Especially suitable if you want to move to UK from elsewhere in Europe or the rest of the world.)
 
 ## PhD
-**Current opening: NeuroAI approaches to understanding inter-individual differences in cognition and psychiatric disorders**  
-Collaboration with [Prof Liam McDaid](https://www.ulster.ac.uk/staff/lj-mcdaid) (Ulster University) and [Dr Kevin Mitchell](https://www.kjmitchell.com) (Trinity College Dublin).  
-
-An important unsolved problem in psychology and neuroscience is: what determines the cognitive differences between individual people? And relatedly, why do some people develop psychiatric disorders while others don’t? One clue may come from the fact that human brain wiring is partially specified by our genomes. Modern genetics has found that a large fraction of both inter-individual cognitive differences and psychiatric disorder risk is due to inter-individual variations in our DNA: for example autism is believed to be ~80 percent genetic, while schizophrenia is ~50 percent genetic [Mitchell 2018](https://press.princeton.edu/books/hardcover/9780691173887/innate).
-
-Understanding how genes affect cognition requires understanding how the genome sets the rules for brain wiring during early development, which, in combination with a person’s life experience, results in their particular cognitive profile.
-
-In this project, the PhD student will build and study biologically-plausible deep neural networks as simplified models human brains [Doerig et al 2023](https://www.nature.com/articles/s41583-023-00705-w). Standard artificial neural networks will be adapted with biological components such as neuronal cell types, astrocytes, and spiking dynamics. This is an example of the growing field of “NeuroAI”, at the interface between computational neuroscience and artificial intelligence ([Zador et al 2023](https://www.nature.com/articles/s41467-023-37180-x)).
-
-The project will have three phases:
-- Design a basic neural network model and genome-to-network architecture mapping. Identify the factors that determine the effect of inter-individual genetic differences on network task performance (nature vs nurture).
-- Extend the model for the random distribution of genomes using principles from evolutionary theory ([Eyre-Walker 2010](https://www.pnas.org/doi/abs/10.1073/pnas.0906182107)). For example, genetic mixing via sexual reproduction in the population could be modelled to ask if the DNNs can account for human sibling similarity in cognitive traits.
-- Explore how stable subpopulations of individuals with psychiatric disorders could arise in the model.
-
-The results of these simulation studies can be used to make predictions for neuroscience experiments, or inspire new principles for designing next-generation AI systems.  
-
-Application deadline 26th February 2024. To be eligible for funding, UK students should have a 1st or 2nd class BSc degree, international applicants should have a Masters degree. More info here: [https://www.ulster.ac.uk/doctoralcollege/find-a-phd/1577672](https://www.ulster.ac.uk/doctoralcollege/find-a-phd/1577672).
 
 **General openings**  
 

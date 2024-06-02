@@ -6,7 +6,7 @@ permalink: /publications/
 
 ## Preprints
 - Freud K, Lepora N, Jones MW, O'Donnell C.  
-Deep learning-based location decoding reveals that across-day representational drift is better predicted by rewarded experience than time  
+[Deep learning-based location decoding reveals that across-day representational drift is better predicted by rewarded experience than time](https://www.biorxiv.org/content/10.1101/2024.02.01.578423v1)  
 *bioRxiv* (2024)
 - Gupta R, O'Donnell C.  
 [Dendritic spine neck plasticity controls synaptic expression of long-term potentiation.](https://doi.org/10.1101/2023.01.27.525952)  
@@ -23,7 +23,7 @@ Deep learning-based location decoding reveals that across-day representational d
 [Bayesian analysis of phase data in EEG and MEG.](https://elifesciences.org/articles/84602)  
 *eLife* 12:e84602 (2023)  
 - O'Donnell C.  
-[Nonlinear slow-timescale mechanisms in synaptic plasticity.](https://authors.elsevier.com/a/1hgXy3Q9h2EelA)  
+[Nonlinear slow-timescale mechanisms in synaptic plasticity.](https://www.sciencedirect.com/science/article/pii/S0959438823001034)  
 *Current Opinion in Neurobiology* 82:102778 (2023)
 - Isotalus H, Carr WJ, Averill GG, Radtke O, Selwood J, Williams R, Ford E, McCullagh L, McErlane J, O’Donnell C, Durant C, Bartsch U, Jones MW,  Muñoz-Neira C, Wearn AR, Grogan JP, Coulthard EJ.  
 [L-DOPA increases slow-wave sleep duration and selectively modulates memory persistence in older adults](https://doi.org/10.3389/fnbeh.2023.1096720)  

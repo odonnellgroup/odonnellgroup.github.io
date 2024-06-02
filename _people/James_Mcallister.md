@@ -17,8 +17,6 @@ affiliation: [with John Wade]
 <b>{{page.affiliation}}</b>
 
 <header class="masthead text-justify" style="font-size:120%">
-I am a mathematics graduate from Trinity College Dublin and hold a PGCE (Mathematics) and MRes (Research Methods) from Queen's University Belfast. While primarily interested in pure mathematics in my undergraduate, I have long been fascinated with the huge variety of problems in life that can be formulated and solved in a mathematical way.
-<br><br>
-My current research is focused on mathematical models of heterosynaptic plasticity. This includes modelling its mechanisms and biophysical factors (such as proteins, glial cells, and dendritic geometry) over different temporal and spatial domains, as well as researching the functional implications of circuit-level heterosynaptic plasticity in a more abstract and information theoretic way.
+James is a PhD Researcher in mathematical/computational neuroscience, studying somewhere in the intersection of network structure and function, and is particularly interested in the role that synaptic plasticity has in this dynamic interplay. He is a Mathematics graduate of Trinity College Dublin, and received a PGCE in Mathematics and a Masters in Research from Queen's University Belfast. He is interested in all the ways in which maths is used to better understand the world around us, and, as in the case of neuroscience - the world within us.
 
 </header>

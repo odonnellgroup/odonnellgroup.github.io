@@ -6,10 +6,12 @@ order: 2
 ---
 
 - [Laurence Aitchison](http://www.gatsby.ucl.ac.uk/~laurence/) - University of Bristol
+- [Paul Anastasiades](https://www.anastasiades-lab.org) - University of Bristol
 - [Michael Ashby](http://www.bristol.ac.uk/phys-pharm/people/michael-c-ashby) - University of Bristol
 - [Jon Hanley](https://hanleylab.site123.me) - University of Bristol
 - [Conor Houghton](https://www.cs.bris.ac.uk/home/cscjh/) - University of Bristol
 - [Carlos Portera-Cailliau](http://porteralab.neurology.ucla.edu/) - University of California Los Angeles, USA
+- [Simon Schultz](https://www.schultzlab.org) - Imperial College London
 - [Romain Veltz](http://romainveltz.pythonanywhere.com/) - INRIA, Sophia-Antipolis, France
 - [John Wade](https://www.ulster.ac.uk/staff/jj-wade) - Ulster University
 - [Clea Warburton](http://www.bristol.ac.uk/phys-pharm/people/clea-c-warburton) - University of Bristol
