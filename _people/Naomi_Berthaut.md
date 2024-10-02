@@ -1,6 +1,6 @@
 ---
 name: Naomi Berthaut
-position: gradstudent
+position: alumni
 avatar: NaomiBerthaut.jpg
 joined: 9_2019
 affiliation: [with Mike Ashby]

@@ -1,6 +1,6 @@
 ---
 name: Sydney Dimmock
-position: gradstudent
+position: alumni
 avatar: SydneyDimmock.jpg
 joined: 10_2019
 affiliation: [with Conor Houghton]
