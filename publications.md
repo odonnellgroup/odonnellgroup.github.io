@@ -5,12 +5,6 @@ permalink: /publications/
 ---
 
 ## Preprints
-- Dimmock S, Exley BMS, Moore G, Menage L, Delogu A, Schultz SR, Warburton EC, Houghton C, O'Donnell C.  
-[Hierarchical Bayesian modeling of multi-region brain cell count data](https://www.biorxiv.org/content/10.1101/2024.07.20.603979v1)  
-*bioRxiv* (2024)
-- Raak SB, Hanley JG, O'Donnell C.  
-[Competition effects regulating the composition of the microRNA pool](https://www.biorxiv.org/content/10.1101/2024.05.28.596158v1)  
-*bioRxiv* (2024)
 - Freud K, Lepora N, Jones MW, O'Donnell C.  
 [Deep learning-based location decoding reveals that across-day representational drift is better predicted by rewarded experience than time](https://www.biorxiv.org/content/10.1101/2024.02.01.578423v1)  
 *bioRxiv* (2024)
@@ -19,6 +13,13 @@ permalink: /publications/
 *bioRxiv* (2023) 
 
 ## Journal and conference papers
+
+- Raak SB, Hanley JG, O'Donnell C.  
+[Competition effects regulating the composition of the microRNA pool](https://www.biorxiv.org/content/10.1101/2024.05.28.596158v1)  
+*Journal of the Royal Society, Interface* (in press)
+- Dimmock S, Exley BMS, Moore G, Menage L, Delogu A, Schultz SR, Warburton EC, Houghton C, O'Donnell C.  
+[Hierarchical Bayesian modeling of multi-region brain cell count data](https://elifesciences.org/reviewed-preprints/102391)  
+*eLife* 13:RP102391 (2024)
 - Freud K, Lepora N, Jones MW, O'Donnell C.  
 [BrainSLAM: SLAM on Neural Population Activity Data](https://arxiv.org/abs/2402.00588)  
 *Proc. of the 23rd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2024)*
