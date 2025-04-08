@@ -1,6 +1,6 @@
 ---
 name: Kipp Freud
-position: gradstudent
+position: alumnni
 avatar: KippFreud.jpg
 joined: 11_2019
 affiliation: [with Matt Jones and Nathan Lepora]

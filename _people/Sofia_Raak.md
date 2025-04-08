@@ -1,6 +1,6 @@
 ---
 name: Sofia Raak
-position: gradstudent
+position: alumni
 avatar: SofiaRaak.jpg
 joined: 12_2019
 affiliation: [with Jon Hanley]
