@@ -16,7 +16,7 @@ permalink: /publications/
 
 - Raak SB, Hanley JG, O'Donnell C.  
 [Competition effects regulating the composition of the microRNA pool](https://doi.org/10.1098/rsif.2024.0870)  
-*Journal of the Royal Society Interface* (in press)
+*Journal of the Royal Society Interface* 22:20240870 (2025)
 - Dimmock S, Exley BMS, Moore G, Menage L, Delogu A, Schultz SR, Warburton EC, Houghton C, O'Donnell C.  
 [Hierarchical Bayesian modeling of multi-region brain cell count data](https://elifesciences.org/reviewed-preprints/102391)  
 *eLife* 13:RP102391 (2024)

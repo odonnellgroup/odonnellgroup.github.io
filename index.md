@@ -10,26 +10,24 @@ title: O'Donnell group
 
 ## About ##
 
-We are a computational neuroscience research group, split between [Ulster University](http://www.ulster.ac.uk) in Derry/Londonderry, Northern Ireland, and [University of Bristol](http://www.bristol.ac.uk) in Bristol, in south-west England.
+We are a computational neuroscience research group at [Ulster University](http://www.ulster.ac.uk) in Derry/Londonderry, Northern Ireland.
 
 ## Research ##
 We work on three main areas: *Learning & Memory*, *Autism*, and *Statistical methods for neural data*.
 
 **Learning and Memory**  
-- Heterosynaptic plasticity: how do neighboring synapses on a dendrite influence each other? Work by [Sofia](https://odonnellgroup.github.io/people/Sofia_Raak) and [James Mc](https://odonnellgroup.github.io/people/James_Mcallister).  
-- What are the mechanisms and rules of synaptic plasticity? Work by [Cian](https://odonnellgroup.github.io/people/Cian_Odonnell).   
-- How can synapses learn probabilistically and energy-efficiently? Work by [James Malkin](https://odonnellgroup.github.io/people/James_Malkin).
-- How do synapses remain stable in the face of stochastic gene expression? Work by [Oleg](https://odonnellgroup.github.io/people/Oleg_Senkevich).
-
-
-**Statistical methods for neural data**  
-How should we analyse data from large numbers of neurons? We work on statistical methods for analysing large-scale neural datasets, including: deep neural networks, probabilistic models of neural population activity distributions, and bayesian hierarchal modelling.<br/>
-Work by [Kipp](https://odonnellgroup.github.io/people/Kipp_Freud) and [Cian](https://odonnellgroup.github.io/people/Cian_Odonnell).
+- How does neural network structure affect its function? Work by [James Mc](https://odonnellgroup.github.io/people/James_Mcallister).  
+- How do synapses remain stable in the face of stochastic gene expression? Work by [Oleg](https://odonnellgroup.github.io/people/Oleg_Senkevich).  
+- What are the mechanisms and rules of synaptic plasticity? Work by [Cian](https://odonnellgroup.github.io/people/Cian_Odonnell).
 
 
 **Autism**  
 What is different in the brains of autistic people? We collaborate with researchers who work on animal models of autism to ask what is different at the level of neural circuits. Currently we are asking how computational modelling can inform neural circuit-level understanding of autism mechanisms.<br/>
-Work by Lily, Hugh and [Cian](https://odonnellgroup.github.io/people/Cian_Odonnell). 
+Work by [Lily](https://odonnellgroup.github.io/people/Lily_Shepherdly), [Hugh](https://odonnellgroup.github.io/people/Hugh_Quigley) and [Cian](https://odonnellgroup.github.io/people/Cian_Odonnell).  
+
+
+**Statistical methods for neural data**  
+How should we analyse data from large numbers of neurons? We work on statistical methods for analysing large-scale neural datasets, including: deep neural networks, probabilistic models of neural population activity distributions, and bayesian hierarchal modelling.<br/>
 
 
 {% include footer.html %}
