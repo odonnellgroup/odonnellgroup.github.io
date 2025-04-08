@@ -1,7 +1,7 @@
 ---
 name: Lily Shepherdly
 position: gradstudent
-avatar: blank.png
+avatar: LilyShepherdly.jpg
 joined: 13_201912
 affiliation: [with Liam McDaid and Bryan Gardiner]
 ---
