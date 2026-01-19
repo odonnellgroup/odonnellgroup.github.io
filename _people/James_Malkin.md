@@ -1,6 +1,6 @@
 ---
 name: James Malkin
-position: gradstudent
+position: alumni
 avatar: JamesMalkin.jpg
 joined: 12_20191
 affiliation: [with Laurence Aitchison and Conor Houghton]
