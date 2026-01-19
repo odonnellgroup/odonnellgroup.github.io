@@ -21,7 +21,7 @@
 title: O'Donnell group
 email: c.odonnell2@ulster.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  Computational neuroscience research group at Ulster University and University of Bristol
+  Computational neuroscience research group at Ulster University
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://odonnellgroup.github.io"
 twitter_username: cian_neuro
@@ -61,8 +61,8 @@ nav:
     href:           "/people"
   - name:           "collaborators"
     href:           "/collaborators"
-  - name:           "funding"
-    href:           "/funding"
+  #- name:           "funding"
+  #  href:           "/funding"
   #- name:           "news"
   #  href:           "/news"
   - name:           "resources"
