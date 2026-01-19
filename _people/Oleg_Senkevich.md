@@ -1,6 +1,6 @@
 ---
 name: Oleg Senkevich
-position: postdoc
+position: alumni
 avatar: Oleg_Senkevich.jpg
 twitter:
 joined: 11_2019
