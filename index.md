@@ -6,7 +6,7 @@ layout: page
 title: O'Donnell group
 ---
 ![Image by Ahmed Gad from Pixabay](https://github.com/odonnellgroup/odonnellgroup.github.io/raw/master/docs/banner_small.png)
-![Group members](https://github.com/odonnellgroup/odonnellgroup.github.io/raw/master/docs/everyone.jpg)
+#![Group members](https://github.com/odonnellgroup/odonnellgroup.github.io/raw/master/docs/everyone.jpg)
 
 ## About ##
 
