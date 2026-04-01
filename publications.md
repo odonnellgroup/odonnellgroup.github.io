@@ -4,25 +4,31 @@ title: Publications
 permalink: /publications/
 ---
 
-## Preprints
-- Freud K, Lepora N, Jones MW, O'Donnell C.  
-[Deep learning-based location decoding reveals that across-day representational drift is better predicted by rewarded experience than time](https://www.biorxiv.org/content/10.1101/2024.02.01.578423v1)  
-*bioRxiv* (2024)
-- Gupta R, O'Donnell C.  
-[Dendritic spine neck plasticity controls synaptic expression of long-term potentiation.](https://doi.org/10.1101/2023.01.27.525952)  
-*bioRxiv* (2023) 
-
-## Journal and conference papers
-
+## Publications
+- McAllister J, Wade J, Houghton C, O'Donnell C.  
+[Non-random brain wiring enables efficient and robust neural network function under high sparsity](https://doi.org/10.1098/rsif.2024.0870)  
+*bioRxiv* (2026)
+- Malkin J, O’Donnell C, Houghton C  
+[Energy budgets govern synaptic precision and its regulation during plasticity](https://arxiv.org/abs/2602.15787)  
+*arXiv* (2026)
+- Discepolo L, McAllister J, Russell R, Apilado S, Margetts-Smith G, Franchini D, Grant SGN, O’Donnell C, Ashby MC, Anastasiades PG  
+[Region- and layer-specific glutamatergic synapse development in the nascent cortical hierarchy](https://www.biorxiv.org/content/10.64898/2026.02.17.706315v1)  
+*bioRxiv* (2026)
 - Raak SB, Hanley JG, O'Donnell C.  
 [Competition effects regulating the composition of the microRNA pool](https://doi.org/10.1098/rsif.2024.0870)  
 *Journal of the Royal Society Interface* 22:20240870 (2025)
+- Freud K, Lepora N, Jones MW, O'Donnell C.  
+[Deep learning-based location decoding reveals that across-day representational drift is better predicted by rewarded experience than time](https://www.biorxiv.org/content/10.1101/2024.02.01.578423v1)  
+*bioRxiv* (2024)
 - Dimmock S, Exley BMS, Moore G, Menage L, Delogu A, Schultz SR, Warburton EC, Houghton C, O'Donnell C.  
-[Hierarchical Bayesian modeling of multi-region brain cell count data](https://elifesciences.org/reviewed-preprints/102391)  
+[Hierarchical Bayesian modeling of multi-region brain cell count data](https://elifesciences.org/articles/102391)  
 *eLife* 13:RP102391 (2024)
 - Freud K, Lepora N, Jones MW, O'Donnell C.  
 [BrainSLAM: SLAM on Neural Population Activity Data](https://arxiv.org/abs/2402.00588)  
 *Proc. of the 23rd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2024)*
+- Gupta R, O'Donnell C.  
+[Dendritic spine neck plasticity controls synaptic expression of long-term potentiation.](https://doi.org/10.1101/2023.01.27.525952)  
+*bioRxiv* (2023) 
 - Malkin J, O'Donnell C, Houghton CJ, Aitchison L.  
 [Signatures of Bayesian inference emerge from energy efficient synapses.](https://elifesciences.org/reviewed-preprints/92595)  
 *eLife* (2023)  
