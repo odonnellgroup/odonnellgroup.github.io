@@ -4,8 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
-## Publications
-# 2026
+# Publications
+## 2026
 - McAllister J, Wade J, Houghton C, O'Donnell C.  
 [Non-random brain wiring enables efficient and robust neural network function under high sparsity](https://www.biorxiv.org/content/10.64898/2026.03.30.715411v1)  
 *bioRxiv* (2026)
@@ -19,7 +19,8 @@ permalink: /publications/
 - Raak SB, Hanley JG, O'Donnell C.  
 [Competition effects regulating the composition of the microRNA pool](https://doi.org/10.1098/rsif.2024.0870)  
 *Journal of the Royal Society Interface* 22:20240870 (2025)
-# 2024
+
+## 2024
 - Freud K, Lepora N, Jones MW, O'Donnell C.  
 [Deep learning-based location decoding reveals that across-day representational drift is better predicted by rewarded experience than time](https://www.biorxiv.org/content/10.1101/2024.02.01.578423v1)  
 *bioRxiv* (2024)
@@ -29,7 +30,8 @@ permalink: /publications/
 - Freud K, Lepora N, Jones MW, O'Donnell C.  
 [BrainSLAM: SLAM on Neural Population Activity Data](https://arxiv.org/abs/2402.00588)  
 *Proc. of the 23rd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2024)*
-# 2023
+
+## 2023
 - Gupta R, O'Donnell C.  
 [Dendritic spine neck plasticity controls synaptic expression of long-term potentiation.](https://doi.org/10.1101/2023.01.27.525952)  
 *bioRxiv* (2023) 
@@ -52,7 +54,8 @@ permalink: /publications/
 - Delaney TJ, O'Donnell C.  
 [Fast-local and slow-global neural ensembles in the mouse brain.](https://doi.org/10.1162/netn_a_00309)  
 *Network Neuroscience* 7(2):731--742 (2023)
-# 2022
+
+## 2022
 - Griesius, S, O’Donnell, C, Waldron, S, Thomas, KL, Dwyer, DM, Wilkinson, LS, Hall, J, Robinson, ES and Mellor, JR.  
 [Reduced expression of the psychiatric risk gene DLG2 (PSD93) impairs hippocampal synaptic integration and plasticity.](https://www.nature.com/articles/s41386-022-01277-6)  
 *Neuropsychopharmacology* 47:1367--1378 (2022)  
@@ -63,7 +66,8 @@ permalink: /publications/
 - Mizusaki B, O’Donnell C.  
 [Neural circuit function redundancy in brain disorders.](https://www.sciencedirect.com/science/article/pii/S0959438821000787/pdfft?isDTMRedir=true&download=true)  
 *Curr Opin Neurobiol* 70:74--80 (2021)
-# Pre 2020
+
+## Pre 2020
 - O'Donnell C.  
 [Simplicity, flexibility, and interpretability in a model of dendritic protein distributions](https://www.cell.com/neuron/fulltext/S0896-6273(19)30783-4) (preview)   
 *Neuron* 103 (6), 950-952 (2019)
