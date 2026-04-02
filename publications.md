@@ -6,7 +6,7 @@ permalink: /publications/
 
 ## Publications
 - McAllister J, Wade J, Houghton C, O'Donnell C.  
-[Non-random brain wiring enables efficient and robust neural network function under high sparsity](https://doi.org/10.1098/rsif.2024.0870)  
+[Non-random brain wiring enables efficient and robust neural network function under high sparsity](https://www.biorxiv.org/content/10.64898/2026.03.30.715411v1)  
 *bioRxiv* (2026)
 - Malkin J, O’Donnell C, Houghton C  
 [Energy budgets govern synaptic precision and its regulation during plasticity](https://arxiv.org/abs/2602.15787)  
