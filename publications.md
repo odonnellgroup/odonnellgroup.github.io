@@ -15,7 +15,8 @@ permalink: /publications/
 - Discepolo L, McAllister J, Russell R, Apilado S, Margetts-Smith G, Franchini D, Grant SGN, O’Donnell C, Ashby MC, Anastasiades PG  
 [Region- and layer-specific glutamatergic synapse development in the nascent cortical hierarchy](https://www.biorxiv.org/content/10.64898/2026.02.17.706315v1)  
 *bioRxiv* (2026)
-# 2025
+
+## 2025
 - Raak SB, Hanley JG, O'Donnell C.  
 [Competition effects regulating the composition of the microRNA pool](https://doi.org/10.1098/rsif.2024.0870)  
 *Journal of the Royal Society Interface* 22:20240870 (2025)
