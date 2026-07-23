@@ -13,8 +13,8 @@ permalink: /publications/
 [Energy budgets govern synaptic precision and its regulation during plasticity](https://arxiv.org/abs/2602.15787)  
 *arXiv* (2026)
 - Discepolo L, McAllister J, Russell R, Apilado S, Margetts-Smith G, Franchini D, Grant SGN, O’Donnell C, Ashby MC, Anastasiades PG  
-[Region- and layer-specific glutamatergic synapse development in the nascent cortical hierarchy](https://www.biorxiv.org/content/10.64898/2026.02.17.706315v1)  
-*bioRxiv* (2026)
+[Region- and layer-specific glutamatergic synapse development in the nascent cortical hierarchy](https://www.jneurosci.org/content/early/2026/07/01/JNEUROSCI.0293-26.2026)  
+*Journal of Neuroscience* (2026)
 
 ## 2025
 - Raak SB, Hanley JG, O'Donnell C.  
