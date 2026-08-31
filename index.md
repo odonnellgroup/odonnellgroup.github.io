@@ -17,11 +17,11 @@ We are a computational neuroscience research group at [Ulster University](http:/
 We work on three main areas: *Learning & Memory*, *Autism*, and *Statistical methods for neural data*.
 
 **Learning and Circuit computation**  
-- How does neural network structure affect its function? Work by [James Mc](https://odonnellgroup.github.io/people/James_Mcallister).  
+- How does neural network structure affect its function? Work by [James](https://odonnellgroup.github.io/people/James_Mcallister).  
 - How do synapses remain stable in the face of stochastic gene expression? Work by [Oleg](https://odonnellgroup.github.io/people/Oleg_Senkevich).  
 - What synaptic plasticity rules can enable neurons to learn from few examples? Work by [Ava](https://odonnellgroup.github.io/people/Ava_Rijkers) and [Cian](https://odonnellgroup.github.io/people/Cian_Odonnell).
 - How can astrocytes contribute to Behavourial Timescale Synaptic Plasticity? Work by [Emmet](https://odonnellgroup.github.io/people/Emmet_Thompson).
-- Can the brain inspire new AI learning algorithms? Work by [James Mc](https://odonnellgroup.github.io/people/James_Mcallister), [Ava](https://odonnellgroup.github.io/people/Ava_Rijkers) and [Emmet](https://odonnellgroup.github.io/people/Emmet_Thompson).
+- Can the brain inspire new AI learning algorithms? Work by [James](https://odonnellgroup.github.io/people/James_Mcallister), [Ava](https://odonnellgroup.github.io/people/Ava_Rijkers) and [Emmet](https://odonnellgroup.github.io/people/Emmet_Thompson).
 
 
 **Autism**  

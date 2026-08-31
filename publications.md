@@ -6,6 +6,9 @@ permalink: /publications/
 
 # Publications
 ## 2026
+- Quigley H, Gardiner B, McDaid LJ, O'Donnell C.  
+[Machine learning analysis of Autism phenotype data supports a four-dimensional continuum with three overlapping subtypes](https://doi.org/10.64898/2026.08.27.26361561)  
+*medRxiv* (2026)
 - McAllister J, Wade J, Houghton C, O'Donnell C.  
 [Non-random brain wiring enables efficient and robust neural network function under high sparsity](https://www.biorxiv.org/content/10.64898/2026.03.30.715411v1)  
 *bioRxiv* (2026)
