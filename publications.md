@@ -6,6 +6,9 @@ permalink: /publications/
 
 # Publications
 ## 2026
+- Rubisch P, Raak SB, Wodke JAH, Stefan MI, O'Donnell C.  
+[Resource competition controls the length-dependence of synaptic protein synthesis](https://www.biorxiv.org/content/10.64898/2026.10.30.763010v1)  
+*bioRxiv* (2026)
 - Quigley H, Gardiner B, McDaid LJ, O'Donnell C.  
 [Machine learning analysis of Autism phenotype data supports a four-dimensional continuum with three overlapping subtypes](https://doi.org/10.64898/2026.08.27.26361561)  
 *medRxiv* (2026)

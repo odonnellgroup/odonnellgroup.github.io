@@ -1,7 +1,7 @@
 ---
 name: Emmet Thompson
 position: gradstudent
-avatar: blank.png
+avatar: EmmetThompson.jpg
 joined: 12_201912
 affiliation: [with Liam McDaid and Bronac Flanagan]
 ---
